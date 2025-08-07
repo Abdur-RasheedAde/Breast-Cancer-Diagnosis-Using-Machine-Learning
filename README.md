@@ -73,6 +73,11 @@ This project applies machine learning techniques to diagnose breast cancer using
 - Integrate genomic data for multi-modal prediction
 - Deploy as a diagnostic support tool for clinicians
 
+## 👨‍🔬 About Me
+
+I'm **Abdur-Rasheed Abiodun Adeoye**, a data scientist with a strong interest in applying AI to biological and environmental challenges. This is part of my portfolio for in **Bioinformatics**.
+
+
 ## 📎 How to Run
 
 ```bash

@@ -1,5 +1,13 @@
 # 🧬 Breast Cancer Diagnosis Using Machine Learning
 
+## 🧠 **Author** Abdur-Rasheed Abiodun Adeoye  
+Data Analyst | Data Scientist | Bioinformatics    
+**Date:** August 2025  
+**Domain:** Bioinformatics, Cheminformatics, Drug Discovery  
+**Tools & Libraries:** Python, RDKit, PaDEL-Descriptor, Scikit-learn, Seaborn, LazyPredict, ChEMBL Web Services   
+**Contacts:** - [LinkedIn](https://www.linkedin.com/in/abdur-rasheed-adeoye/)
+              - [GitHub](https://github.com/Abdur-RasheedAde)
+
 ## 📘 Overview
 
 This project applies machine learning techniques to diagnose breast cancer using clinical features extracted from digitized images of fine needle aspirate (FNA) of breast masses. It demonstrates my ability to work with medical datasets, perform feature selection, and evaluate multiple classification models.
